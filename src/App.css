@@ -1,0 +1,47 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image {
+  margin-bottom: 2rem;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+  padding: 2rem;
+  width: 20rem;
+  max-width: 100%;
+}
+
+h1 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+input {
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  width: 100%;
+}
+
+input:focus {
+  outline: none;
+  border-color: #00bfff;
+} */
